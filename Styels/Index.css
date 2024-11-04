@@ -1,0 +1,9 @@
+div{
+    border: 10px 10px solid color(srgb rgb(171, 164, 164) rgb(97, 99, 97) rgb(175, 175, 216));
+    padding: 10px  10px;
+    margin: 10px 10px;
+    background-color: darkcyan;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 10px;
+    text-align: center;
+}
